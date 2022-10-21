@@ -56808,53 +56808,53 @@ $S:351}
 A.tj.prototype={
 ak(){return new A.HV(B.l)}}
 A.HV.prototype={
-O(a4){var s,r,q,p,o="Sarup T\xf8mrer APS",n=null,m="Billede af h\xe5ndv\xe6rkerne",l="Vi udf\xf8rer forskellige opgaver:",k="> Vinduer / D\xf8re",j="> Hovedenterprise",i="> Nyt k\xf8kken",h="Louie Sarup & Hamudi Al-natur",g="27 15 44 45",f="Facebook",e=A.bz(o,n,n,n),d=t.T,c=A.a([new A.e8(new A.aR(0,0,20,0),A.rn(n,A.RP(B.zv),B.aq,!1,n,n,n,n,n,n,n,n,n,n,new A.a37(),n,n,n,n,n,n),n),new A.e8(new A.aR(0,0,20,0),A.rn(n,A.RP(B.zt),B.aq,!1,n,n,n,n,n,n,n,n,n,n,new A.a38(),n,n,n,n,n,n),n),new A.e8(new A.aR(0,0,20,0),A.rn(n,A.RP(B.zx),B.aq,!1,n,n,n,n,n,n,n,n,n,n,new A.a39(),n,n,n,n,n,n),n)],d),b=$.aX.G(),a=$.dd.G(),a0=$.aX.G(),a1=$.dd.G(),a2=$.aX.G(),a3=$.dd.G()
-a2=A.cU(n,A.RR("assets/background.jpg",B.kd,n),n,n,100*a3/100,n,n,100*a2/100)
-a3=$.dd.G()
+O(a3){var s,r,q,p,o="Sarup T\xf8mrer APS",n=null,m="Billede af h\xe5ndv\xe6rkerne",l="Vi udf\xf8rer forskellige opgaver:",k="> Vinduer / D\xf8re",j="> Hovedenterprise",i="> Nyt k\xf8kken",h="Louie Sarup & Hamudi Al-natur",g="Facebook",f=A.bz(o,n,n,n),e=t.T,d=A.a([new A.e8(new A.aR(0,0,20,0),A.rn(n,A.RP(B.zv),B.aq,!1,n,n,n,n,n,n,n,n,n,n,new A.a37(),n,n,n,n,n,n),n),new A.e8(new A.aR(0,0,20,0),A.rn(n,A.RP(B.zt),B.aq,!1,n,n,n,n,n,n,n,n,n,n,new A.a38(),n,n,n,n,n,n),n),new A.e8(new A.aR(0,0,20,0),A.rn(n,A.RP(B.zx),B.aq,!1,n,n,n,n,n,n,n,n,n,n,new A.a39(),n,n,n,n,n,n),n)],e),c=$.aX.G(),b=$.dd.G(),a=$.aX.G(),a0=$.dd.G(),a1=$.aX.G(),a2=$.dd.G()
+a1=A.cU(n,A.RR("assets/background.jpg",B.kd,n),n,n,100*a2/100,n,n,100*a1/100)
+a2=$.dd.G()
 s=$.aX.G()
-s=A.ia(A.cU(n,A.cU(n,n,n,B.v8,n,n,n,n),n,n,58*a3/100,n,n,58*s/100),n,n)
-a3=$.aX.G()
+s=A.ia(A.cU(n,A.cU(n,n,n,B.v8,n,n,n,n),n,n,58*a2/100,n,n,58*s/100),n,n)
+a2=$.aX.G()
 r=$.dd.G()
-a0=A.cU(n,A.uR(B.bR,A.a([a2,s,A.ia(A.cU(n,A.RR("assets/sarup_logo.jpg",n,n),n,n,35*r/100,n,n,35*a3/100),n,n)],d),B.cE),B.k,n,80*a1/100,n,n,100*a0/100)
-a1=$.dd.G()
-a3=$.dd.G()
-a2=t.w
-b=A.cU(n,A.jj(A.a([a0,A.cU(n,A.ia(A.bz("Ansvarligt t\xf8mrerfirma",A.bu(n,n,n,n,n,n,n,n,n,n,n,a4.S(a2).f.a.a>700?12*($.aX.G()/3)/100:10*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n,n),B.f,n,20*a3/100,n,n,100*a1/100)],d),B.a7,B.a2),B.f,n,100*a/100,n,n,100*b/100)
-if(a4.S(a2).f.a.a>700){a=$.aX.G()
+a=A.cU(n,A.uR(B.bR,A.a([a1,s,A.ia(A.cU(n,A.RR("assets/sarup_logo.jpg",n,n),n,n,35*r/100,n,n,35*a2/100),n,n)],e),B.cE),B.k,n,80*a0/100,n,n,100*a/100)
 a0=$.dd.G()
-a1=$.aX.G()
-a3=$.dd.G()
+a2=$.dd.G()
+a1=t.w
+c=A.cU(n,A.jj(A.a([a,A.cU(n,A.ia(A.bz("Ansvarligt t\xf8mrerfirma",A.bu(n,n,n,n,n,n,n,n,n,n,n,a3.S(a1).f.a.a>700?12*($.aX.G()/3)/100:10*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n,n),B.f,n,20*a2/100,n,n,100*a0/100)],e),B.a7,B.a2),B.f,n,100*b/100,n,n,100*c/100)
+if(a3.S(a1).f.a.a>700){b=$.aX.G()
+a=$.dd.G()
+a0=$.aX.G()
+a2=$.dd.G()
 s=$.aX.G()
 r=$.dd.G()
 s=A.cU(n,A.ia(A.bz(m,n,n,n),n,n),B.qI,n,100*r/100,n,n,50*s/100)
 r=$.aX.G()
 q=$.dd.G()
 p=$.aX.G()
-a=A.cU(n,A.jj(A.a([A.cU(n,A.ui(A.a([s,A.cU(n,A.jj(A.a([A.bz("M\xf8d",A.bu(n,n,A.qD(177,151,102,1),n,n,n,n,n,n,n,n,12*(p/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.bz(o,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,10*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),B.qU,A.bz(l,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,10*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.bz(k,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,8*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.bz("> Tage",A.bu(n,n,B.f,n,n,n,n,n,n,n,n,8*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.bz(j,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,8*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.bz(i,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,8*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n)],d),B.cV,B.a2),n,n,100*q/100,n,n,50*r/100)],d),B.a7,B.a2,B.bA),B.k,n,100*a3/100,n,n,100*a1/100)],d),B.a7,B.a2),n,n,100*a0/100,n,n,100*a/100)}else{a=$.aX.G()
-a0=$.dd.G()
-a1=$.aX.G()
-a3=$.dd.G()
+b=A.cU(n,A.jj(A.a([A.cU(n,A.ui(A.a([s,A.cU(n,A.jj(A.a([A.bz("M\xf8d",A.bu(n,n,A.qD(177,151,102,1),n,n,n,n,n,n,n,n,12*(p/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.bz(o,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,10*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),B.qU,A.bz(l,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,10*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.bz(k,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,8*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.bz("> Tage",A.bu(n,n,B.f,n,n,n,n,n,n,n,n,8*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.bz(j,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,8*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.bz(i,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,8*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n)],e),B.cV,B.a2),n,n,100*q/100,n,n,50*r/100)],e),B.a7,B.a2,B.bA),B.k,n,100*a2/100,n,n,100*a0/100)],e),B.a7,B.a2),n,n,100*a/100,n,n,100*b/100)}else{b=$.aX.G()
+a=$.dd.G()
+a0=$.aX.G()
+a2=$.dd.G()
 s=$.aX.G()
-a1=A.cU(n,A.jj(A.a([A.jj(A.a([A.bz("M\xf8d",A.bu(n,n,A.qD(177,151,102,1),n,n,n,n,n,n,n,n,20*(s/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.bz(o,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,18*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),B.qU,A.bz(l,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,18*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.bz(k,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,15*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.bz("> Tage",A.bu(n,n,B.f,n,n,n,n,n,n,n,n,15*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.bz(j,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,15*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.bz(i,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,15*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n)],d),B.cV,B.a2)],d),B.a7,B.a2),B.k,n,50*a3/100,n,n,100*a1/100)
-a3=$.aX.G()
+a0=A.cU(n,A.jj(A.a([A.jj(A.a([A.bz("M\xf8d",A.bu(n,n,A.qD(177,151,102,1),n,n,n,n,n,n,n,n,20*(s/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.bz(o,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,18*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),B.qU,A.bz(l,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,18*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.bz(k,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,15*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.bz("> Tage",A.bu(n,n,B.f,n,n,n,n,n,n,n,n,15*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.bz(j,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,15*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.bz(i,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,15*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n)],e),B.cV,B.a2)],e),B.a7,B.a2),B.k,n,50*a2/100,n,n,100*a0/100)
+a2=$.aX.G()
 s=$.dd.G()
-a=A.cU(n,A.jj(A.a([a1,A.cU(n,A.ia(A.bz(m,n,n,n),n,n),B.qI,n,50*s/100,n,n,100*a3/100)],d),B.a7,B.a2),n,n,100*a0/100,n,n,100*a/100)}a0=$.aX.G()
-a1=a4.S(a2).f.a.a>700?50*$.dd.G()/100:20*$.dd.G()/100
-a3=$.aX.G()
-a3=A.cU(n,A.RR("assets/planks_bottom_bar.jpg",B.kd,n),n,n,n,n,n,100*a3/100)
-if(a4.S(a2).f.a.a<700){s=$.aX.G()
-s=A.jj(A.a([A.bz("Kontakt",A.bu(n,n,A.qD(177,151,102,1),n,n,n,n,n,n,n,n,15*(s/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.bz(h,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,12*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.v1(A.bz(g,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,10*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),new A.a3a()),A.v1(A.bz("Mail: saruptomrersnedker@gmail.com",A.bu(n,n,B.f,n,n,n,n,n,n,n,n,10*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),new A.a3b()),A.v1(A.bz(f,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,10*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),new A.a3c())],d),B.a7,B.a2)}else{s=$.aX.G()
-s=A.jj(A.a([A.bz("Kontakt",A.bu(n,n,A.qD(177,151,102,1),n,n,n,n,n,n,n,n,12*(s/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.bz(h,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,10*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.ui(A.a([A.bz("Telefon: ",A.bu(n,n,B.f,n,n,n,n,n,n,n,n,10*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.v1(A.bz(g,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,10*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),new A.a3d())],d),B.a7,B.qB,B.bA),A.ui(A.a([A.bz("Mail: ",A.bu(n,n,B.f,n,n,n,n,n,n,n,n,10*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.v1(A.bz("saruptomrersnedker@gmail.com",A.bu(n,n,B.f,n,n,n,n,n,n,n,n,10*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),new A.a3e())],d),B.a7,B.qB,B.bA),A.v1(A.bz(f,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,10*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),new A.a3f())],d),B.a7,B.a2)}a0=A.cU(n,A.uR(B.bR,A.a([a3,A.ia(s,n,n)],d),B.cE),B.f,n,a1,n,n,100*a0/100)
-a1=$.aX.G()
-a3=a4.S(a2).f.a.a<700?14*$.dd.G()/100:30*$.dd.G()/100
+b=A.cU(n,A.jj(A.a([a0,A.cU(n,A.ia(A.bz(m,n,n,n),n,n),B.qI,n,50*s/100,n,n,100*a2/100)],e),B.a7,B.a2),n,n,100*a/100,n,n,100*b/100)}a=$.aX.G()
+a0=a3.S(a1).f.a.a>700?50*$.dd.G()/100:20*$.dd.G()/100
+a2=$.aX.G()
+a2=A.cU(n,A.RR("assets/planks_bottom_bar.jpg",B.kd,n),n,n,n,n,n,100*a2/100)
+if(a3.S(a1).f.a.a<700){s=$.aX.G()
+s=A.jj(A.a([A.bz("Kontakt",A.bu(n,n,A.qD(177,151,102,1),n,n,n,n,n,n,n,n,15*(s/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.bz(h,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,12*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.v1(A.bz("Telefon: 27 15 44 45",A.bu(n,n,B.f,n,n,n,n,n,n,n,n,10*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),new A.a3a()),A.v1(A.bz("Mail: saruptomrersnedker@gmail.com",A.bu(n,n,B.f,n,n,n,n,n,n,n,n,10*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),new A.a3b()),A.v1(A.bz(g,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,10*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),new A.a3c())],e),B.a7,B.a2)}else{s=$.aX.G()
+s=A.jj(A.a([A.bz("Kontakt",A.bu(n,n,A.qD(177,151,102,1),n,n,n,n,n,n,n,n,12*(s/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.bz(h,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,10*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.ui(A.a([A.bz("Telefon: ",A.bu(n,n,B.f,n,n,n,n,n,n,n,n,10*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.v1(A.bz("27 15 44 45",A.bu(n,n,B.f,n,n,n,n,n,n,n,n,10*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),new A.a3d())],e),B.a7,B.qB,B.bA),A.ui(A.a([A.bz("Mail: ",A.bu(n,n,B.f,n,n,n,n,n,n,n,n,10*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.v1(A.bz("saruptomrersnedker@gmail.com",A.bu(n,n,B.f,n,n,n,n,n,n,n,n,10*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),new A.a3e())],e),B.a7,B.qB,B.bA),A.v1(A.bz(g,A.bu(n,n,B.f,n,n,n,n,n,n,n,n,10*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),new A.a3f())],e),B.a7,B.a2)}a=A.cU(n,A.uR(B.bR,A.a([a2,A.ia(s,n,n)],e),B.cE),B.f,n,a0,n,n,100*a/100)
+a0=$.aX.G()
+a2=a3.S(a1).f.a.a<700?14*$.dd.G()/100:30*$.dd.G()/100
 s=A.qD(177,151,102,1)
 r=A.bz("Louie Sarup - Bolundevej 11, Roskilde - Telefon: 27 15 44 45 - Mail: saruptomrersnedker@gmail.com",A.bu(n,n,B.f,n,n,n,n,n,n,n,n,10*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n)
 q=A.bz("En del af ",A.bu(n,n,B.f,n,n,n,n,n,n,n,n,10*($.aX.G()/3)/100,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n)
-d=A.a([b,a,a0,A.cU(n,A.jj(A.a([r,A.ui(A.a([new A.e8(B.z4,q,n),A.RR("assets/byg_garanti.webp",n,a4.S(a2).f.a.a<700?15:7)],d),B.a7,B.a2,B.bA)],d),B.a7,B.a2),s,n,a3,n,n,100*a1/100)],d)
-b=A.aO([null,0],t.st,t.S)
-a=!0
-a=a?B.uJ:n
-return new A.uj(!0,new A.q6(e,c,B.R,new A.IK(n,n,1/0,56),n),A.ia(new A.BC(new A.Zt(!0,!0,!0,d,b),n,B.aX,!1,n,n,a,!1,n,4,B.aq,B.EI,n,B.af,n),n,n),B.R,n)}}
+e=A.a([c,b,a,A.cU(n,A.jj(A.a([r,A.ui(A.a([new A.e8(B.z4,q,n),A.RR("assets/byg_garanti.webp",n,a3.S(a1).f.a.a<700?15:7)],e),B.a7,B.a2,B.bA)],e),B.a7,B.a2),s,n,a2,n,n,100*a0/100)],e)
+c=A.aO([null,0],t.st,t.S)
+b=!0
+b=b?B.uJ:n
+return new A.uj(!0,new A.q6(f,d,B.R,new A.IK(n,n,1/0,56),n),A.ia(new A.BC(new A.Zt(!0,!0,!0,e,c),n,B.aX,!1,n,n,b,!1,n,4,B.aq,B.EI,n,B.af,n),n,n),B.R,n)}}
 A.a37.prototype={
 $0(){A.fT("tel://+4527154445")},
 $S:0}
